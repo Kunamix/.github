@@ -1,4 +1,4 @@
-# 🚀 Kunamix — Tech Solutions That Scale
+# Kunamix Digital Solutions
 
 > **Building tomorrow's digital experiences, today.**
 
