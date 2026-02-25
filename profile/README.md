@@ -9,7 +9,7 @@
 
 ## 🏢 About Us
 
-**Kunamix** is a tech services company built by developers and designers who are passionate about turning ideas into powerful digital products. From concept to deployment, we craft high-quality software solutions tailored to your needs — whether you're a startup, a growing business, or an enterprise.
+**Kunamix Digital Solutions** is a tech services company built by developers and designers who are passionate about turning ideas into powerful digital products. From concept to deployment, we craft high-quality software solutions tailored to your needs — whether you're a startup, a growing business, or an enterprise.
 
 We specialize in building **custom, scalable, and intuitive** software that solves real problems.
 
@@ -55,7 +55,7 @@ We're a lean, high-impact team of three — a rare combination of design and eng
 
 > *"Mobile-first, always."*
 
-Naman is the mobile force behind Kunamix. With **2 years of hands-on mobile development experience**, he specializes in building smooth, performant, and feature-rich mobile applications. He ensures every app we ship feels native and natural in the user's hands.
+Naman is the mobile force behind Kunamix Digital Solutions. With **2 years of hands-on mobile development experience**, he specializes in building smooth, performant, and feature-rich mobile applications. He ensures every app we ship feels native and natural in the user's hands.
 
 - 📱 Mobile App Development (iOS & Android)
 - ⚡ Cross-platform frameworks
@@ -67,7 +67,7 @@ Naman is the mobile force behind Kunamix. With **2 years of hands-on mobile deve
 
 > *"If it's broken under the hood, it doesn't matter how good it looks."*
 
-Kunal is the backbone of Kunamix — literally. With deep expertise in **backend systems and databases**, he architects the server-side logic that keeps everything running reliably. As a fullstack developer, he bridges both worlds — from API to UI.
+Kunal is the backbone of Kunamix Digital Solutions — literally. With deep expertise in **backend systems and databases**, he architects the server-side logic that keeps everything running reliably. As a fullstack developer, he bridges both worlds — from API to UI.
 
 - 🗄️ Backend development & database architecture
 - 🔗 REST APIs, system design, and data modeling
@@ -79,7 +79,7 @@ Kunal is the backbone of Kunamix — literally. With deep expertise in **backend
 
 > *"Good design is invisible. Great design is unforgettable."*
 
-Nikhil is the creative eye of Kunamix. As our Lead Designer, he shapes the visual identity and user experience of every product we build. His designs are not just beautiful — they're functional, accessible, and user-first.
+Nikhil is the creative eye of Kunamix Digital Solutions. As our Lead Designer, he shapes the visual identity and user experience of every product we build. His designs are not just beautiful — they're functional, accessible, and user-first.
 
 - 🎨 UI/UX Design & Prototyping
 - 🖼️ Brand identity & visual systems
